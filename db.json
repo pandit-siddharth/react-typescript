@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "user": "avalanche",
+    "post": "developer"
+  },
+  {
+    "id": 2,
+    "user": "sid",
+    "post": "techie"
+  },
+  {
+    "id": 3,
+    "user": "jammy",
+    "post": "qa"
+  }
+]
